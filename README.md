@@ -1,7 +1,7 @@
 # EasyPinger
 Alternative simple pinger
 
-What can a tell anymore )
+What can I tell anymore )
 
 ## Features
 * portable version
